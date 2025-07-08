@@ -86,5 +86,3 @@ Design an address book management system using Python classes. You will implemen
 
   * Accepts only digit strings of length 10.
   * Raises `ValueError` on invalid format.
-
----
